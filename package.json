@@ -1,6 +1,6 @@
 {
   "name": "@wmfs/relationize",
-  "version": "0.0.0-development",
+  "version": "0.0.0-semantically-release",
   "description": "Takes a set of JSON Schema definitions and returns a relational database structure capable of storing compliant data.",
   "author": "West Midlands Fire Service",
   "homepage": "https://github.com/wmfs/relationize#readme",
@@ -44,7 +44,7 @@
     "lint": "standard",
     "test": "nyc mocha && standard",
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "config": {
     "commitizen": {
