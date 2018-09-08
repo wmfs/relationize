@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/wmfs/relationize/compare/v1.1.0...v1.2.0) (2018-09-08)
+
+
+### 🛠 Builds
+
+* **deps:** update jsonfile requirement from 4.0.0 to 5.0.0 ([0e52ab2](https://github.com/wmfs/relationize/commit/0e52ab2))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([1e3cbf8](https://github.com/wmfs/relationize/commit/1e3cbf8))
+* **deps-dev:** update nyc requirement from 12.0.2 to 13.0.1 ([d78ff4e](https://github.com/wmfs/relationize/commit/d78ff4e))
+* **deps-dev:** update semantic-release requirement ([55da9a8](https://github.com/wmfs/relationize/commit/55da9a8))
+* **deps-dev:** update semantic-release requirement from 15.9.11 to 15.9.12 ([404973b](https://github.com/wmfs/relationize/commit/404973b))
+* **dev-deps:** move to standard 12.0.1 ([56c5920](https://github.com/wmfs/relationize/commit/56c5920))
+
 # [1.1.0](https://github.com/wmfs/relationize/compare/v1.0.1...v1.1.0) (2018-08-27)
 
 
