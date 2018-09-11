@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/wmfs/relationize/compare/v1.2.0...v1.3.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 3.1.0 to 3.2.1 ([83aae95](https://github.com/wmfs/relationize/commit/83aae95))
+* **deps-dev:** update semantic-release requirement ([b9ffd9d](https://github.com/wmfs/relationize/commit/b9ffd9d))
+
 # [1.2.0](https://github.com/wmfs/relationize/compare/v1.1.0...v1.2.0) (2018-09-08)
 
 
