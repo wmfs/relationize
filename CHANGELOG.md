@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/wmfs/relationize/compare/v1.6.0...v1.7.0) (2018-09-12)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.10 to 4.17.11 ([eb2f518](https://github.com/wmfs/relationize/commit/eb2f518))
+* **deps-dev:** update semantic-release requirement ([87e6c5a](https://github.com/wmfs/relationize/commit/87e6c5a))
+
 # [1.6.0](https://github.com/wmfs/relationize/compare/v1.5.0...v1.6.0) (2018-09-11)
 
 
