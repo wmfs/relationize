@@ -1,3 +1,13 @@
+# [1.8.0](https://github.com/wmfs/relationize/compare/v1.7.0...v1.8.0) (2018-10-08)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.0.1 to 4.1.0 ([d5ecf16](https://github.com/wmfs/relationize/commit/d5ecf16))
+* **deps-dev:** update chai requirement from 4.1.2 to 4.2.0 ([950a7ce](https://github.com/wmfs/relationize/commit/950a7ce))
+* **deps-dev:** update semantic-release requirement ([05cce89](https://github.com/wmfs/relationize/commit/05cce89))
+* **deps-dev:** update semantic-release requirement ([c00356a](https://github.com/wmfs/relationize/commit/c00356a))
+
 # [1.7.0](https://github.com/wmfs/relationize/compare/v1.6.0...v1.7.0) (2018-09-12)
 
 
