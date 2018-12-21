@@ -1,3 +1,17 @@
+# [1.11.0](https://github.com/wmfs/relationize/compare/v1.10.0...v1.11.0) (2018-12-21)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.2 to 7.3.0 ([2b66e12](https://github.com/wmfs/relationize/commit/2b66e12))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([9991cc6](https://github.com/wmfs/relationize/commit/9991cc6))
+* **deps-dev:** update semantic-release requirement ([5cd645d](https://github.com/wmfs/relationize/commit/5cd645d))
+* **deps-dev:** update semantic-release requirement ([497e744](https://github.com/wmfs/relationize/commit/497e744))
+* **deps-dev:** update semantic-release requirement ([70ad7ae](https://github.com/wmfs/relationize/commit/70ad7ae))
+* **deps-dev:** update semantic-release requirement ([8d097a7](https://github.com/wmfs/relationize/commit/8d097a7))
+* **deps-dev:** update semantic-release requirement ([863f138](https://github.com/wmfs/relationize/commit/863f138))
+* **deps-dev:** update semantic-release requirement ([5b29616](https://github.com/wmfs/relationize/commit/5b29616))
+
 # [1.10.0](https://github.com/wmfs/relationize/compare/v1.9.0...v1.10.0) (2018-11-03)
 
 
