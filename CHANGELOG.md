@@ -1,3 +1,11 @@
+# [1.12.0](https://github.com/wmfs/relationize/compare/v1.11.0...v1.12.0) (2019-02-08)
+
+
+### 🛠 Builds
+
+* **deps:** Bump debug ([3a3ac06](https://github.com/wmfs/relationize/commit/3a3ac06))
+* **dev-deps:** Bump sem-rel and chums ([a555d68](https://github.com/wmfs/relationize/commit/a555d68))
+
 # [1.11.0](https://github.com/wmfs/relationize/compare/v1.10.0...v1.11.0) (2018-12-21)
 
 
