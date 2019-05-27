@@ -22,7 +22,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "async": "2.6.1",
+    "async": "3.0.1",
     "boom": "7.3.0",
     "debug": "4.1.1",
     "glob": "7.1.3",
