@@ -1,3 +1,15 @@
+# [1.13.0](https://github.com/wmfs/relationize/compare/v1.12.0...v1.13.0) (2019-06-26)
+
+
+### 🛠 Builds
+
+* **deps:** update async requirement from 2.6.1 to 3.1.0 ([06b4010](https://github.com/wmfs/relationize/commit/06b4010))
+* **deps:** update glob requirement from 7.1.3 to 7.1.4 ([b1ffee5](https://github.com/wmfs/relationize/commit/b1ffee5))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([466f7e6](https://github.com/wmfs/relationize/commit/466f7e6))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([2471242](https://github.com/wmfs/relationize/commit/2471242))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([837a110](https://github.com/wmfs/relationize/commit/837a110))
+* **deps-dev:** update semantic-release requirement ([8c43891](https://github.com/wmfs/relationize/commit/8c43891))
+
 # [1.12.0](https://github.com/wmfs/relationize/compare/v1.11.0...v1.12.0) (2019-02-08)
 
 
