@@ -1,7 +1,7 @@
 # relationize
 [![Tymly Package](https://img.shields.io/badge/tymly-package-blue.svg)](https://tymly.io/)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/relationize.svg)](https://www.npmjs.com/package/@wmfs/relationize)
-[![Build Status](https://travis-ci.org/wmfs/relationize.svg?branch=master)](https://travis-ci.org/wmfs/relationize)
+[![CircleCI](https://circleci.com/gh/wmfs/relationize.svg?style=svg)](https://circleci.com/gh/wmfs/relationize)
 [![codecov](https://codecov.io/gh/wmfs/relationize/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/relationize)
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/relationize/badge)](https://www.codefactor.io/repository/github/wmfs/relationize)
 [![Dependabot badge](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)](https://dependabot.com/)
