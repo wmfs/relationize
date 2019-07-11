@@ -1,3 +1,23 @@
+# [1.14.0](https://github.com/wmfs/relationize/compare/v1.13.0...v1.14.0) (2019-07-11)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.11 to 4.17.14 ([3541394](https://github.com/wmfs/relationize/commit/3541394))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([2f3ae6b](https://github.com/wmfs/relationize/commit/2f3ae6b))
+* **deps-dev:** update nyc requirement from 13.2.0 to 14.1.1 ([702cb6f](https://github.com/wmfs/relationize/commit/702cb6f))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge ([d6b65ac](https://github.com/wmfs/relationize/commit/d6b65ac))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([cc81329](https://github.com/wmfs/relationize/commit/cc81329))
+* **travis:** Remove Travis config ([3ac6595](https://github.com/wmfs/relationize/commit/3ac6595))
+
 # [1.13.0](https://github.com/wmfs/relationize/compare/v1.12.0...v1.13.0) (2019-06-26)
 
 
