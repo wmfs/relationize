@@ -1,3 +1,13 @@
+# [1.15.0](https://github.com/wmfs/relationize/compare/v1.14.0...v1.15.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.14 to 4.17.15 ([bdb1545](https://github.com/wmfs/relationize/commit/bdb1545e64395ea92760419e8e4baa9faad16ad5))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([36b7469](https://github.com/wmfs/relationize/commit/36b74692c0990470ef50abd94eab1671f912c11e))
+* **deps-dev:** bump packages ([4d04b45](https://github.com/wmfs/relationize/commit/4d04b45194868ae433a92fa653360b3da1c3f0c9))
+* **deps-dev:** update dev dependancies ([83d2cf0](https://github.com/wmfs/relationize/commit/83d2cf0cd81e53ecd91145d3a680b0639ac4aac1))
+
 # [1.14.0](https://github.com/wmfs/relationize/compare/v1.13.0...v1.14.0) (2019-07-11)
 
 
