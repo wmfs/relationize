@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/wmfs/relationize/compare/v1.15.0...v1.16.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** bump glob from 7.1.4 to 7.1.6 ([a7d7005](https://github.com/wmfs/relationize/commit/a7d7005b650a8960b183a2def8e71658e9fe1bef))
+
 # [1.15.0](https://github.com/wmfs/relationize/compare/v1.14.0...v1.15.0) (2020-01-07)
 
 
