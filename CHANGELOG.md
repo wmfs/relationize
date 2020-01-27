@@ -1,3 +1,20 @@
+# [1.17.0](https://github.com/wmfs/relationize/compare/v1.16.0...v1.17.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump async from 3.1.0 to 3.1.1 ([b027ed1](https://github.com/wmfs/relationize/commit/b027ed1d6c00f24bb6028833b8f7749461f8c5ff))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([79f343b](https://github.com/wmfs/relationize/commit/79f343b7a764223684616f31d5381158ada067bd))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([cf5f055](https://github.com/wmfs/relationize/commit/cf5f055b4d4d738646bab288b54aab87549f5798))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([9b3cc20](https://github.com/wmfs/relationize/commit/9b3cc209a7147617e6eb829245cde4ff4e88f6ad))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([08e638c](https://github.com/wmfs/relationize/commit/08e638c0ca095cf487deeba81ed97aff6aa93174))
+
+
+### 💎 Styles
+
+* Do not access Object.prototype method 'hasOwnProperty' from target object ([94aea14](https://github.com/wmfs/relationize/commit/94aea14be992c70975f6927ac8668925290ca2d1))
+* standard --fix ([12b5bed](https://github.com/wmfs/relationize/commit/12b5bedeb5e01ff272fd6afe15f879284eb022c1))
+
 # [1.16.0](https://github.com/wmfs/relationize/compare/v1.15.0...v1.16.0) (2020-01-07)
 
 
