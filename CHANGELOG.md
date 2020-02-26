@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/wmfs/relationize/compare/v1.18.0...v1.19.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump async from 3.1.1 to 3.2.0 ([17248d1](https://github.com/wmfs/relationize/commit/17248d1ca1211bffe203ce99c87a74718a542b20))
+
 # [1.18.0](https://github.com/wmfs/relationize/compare/v1.17.0...v1.18.0) (2020-02-26)
 
 
