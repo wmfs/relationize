@@ -1,3 +1,17 @@
+# [1.18.0](https://github.com/wmfs/relationize/compare/v1.17.0...v1.18.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump jsonfile from 5.0.0 to 6.0.0 ([b597a03](https://github.com/wmfs/relationize/commit/b597a032c874429469bc747d9aa8c1bf710df961))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([793fe79](https://github.com/wmfs/relationize/commit/793fe795d01507785d9283c78e8bf82c72060779))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([d6187f1](https://github.com/wmfs/relationize/commit/d6187f135cc46de8cb261a9243b0a8e4ecefed55))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([32e1dbd](https://github.com/wmfs/relationize/commit/32e1dbd6d26c5ddae513a27131898d90f9e8ccbf))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([48a0661](https://github.com/wmfs/relationize/commit/48a0661ec5c25b6abc9d5d2939cbf938e66fc6e9))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([0e26703](https://github.com/wmfs/relationize/commit/0e26703df5a6a462783a48af9d0cf29a8f9af34b))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([a7a0362](https://github.com/wmfs/relationize/commit/a7a0362f1c5f385f67883f467e514af43481e416))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.4 ([c174a58](https://github.com/wmfs/relationize/commit/c174a58193d1a66514de6a07dfd8c2b9694d3a0a))
+
 # [1.17.0](https://github.com/wmfs/relationize/compare/v1.16.0...v1.17.0) (2020-01-27)
 
 
