@@ -1,3 +1,14 @@
+# [1.20.0](https://github.com/wmfs/relationize/compare/v1.19.0...v1.20.0) (2020-03-18)
+
+
+### 🛠 Builds
+
+* **deps:** bump jsonfile from 6.0.0 to 6.0.1 ([2f4ba37](https://github.com/wmfs/relationize/commit/2f4ba37f759cab30a05e85d7e6e6d501aacffff5))
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([3906b67](https://github.com/wmfs/relationize/commit/3906b67eb8e0b03dd823d60b86cefac280e6f2ba))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([2e9acb6](https://github.com/wmfs/relationize/commit/2e9acb6cf27e94eb05e54ecf69c708fbfb9bcfcb))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([f8165a8](https://github.com/wmfs/relationize/commit/f8165a82381a8c1a8d7396c8fb5e6219a34fbd36))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([83d0d8f](https://github.com/wmfs/relationize/commit/83d0d8fd9e0005b4b205447f3e45424d6c406260))
+
 # [1.19.0](https://github.com/wmfs/relationize/compare/v1.18.0...v1.19.0) (2020-02-26)
 
 
