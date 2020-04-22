@@ -1,3 +1,21 @@
+# [1.21.0](https://github.com/wmfs/relationize/compare/v1.20.0...v1.21.0) (2020-04-22)
+
+
+### 🛠 Builds
+
+* **deps:** Remove unused boom and debug dependencies ([95c0af7](https://github.com/wmfs/relationize/commit/95c0af7843aa1e99565892ffe26ec7505ee5a382))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([4a94a21](https://github.com/wmfs/relationize/commit/4a94a218afdb7c7af88ac0d9f8a1b91e51d6bc87))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([e20846c](https://github.com/wmfs/relationize/commit/e20846cfbe0ef1b40e966c927cb913bb35843367))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([0e440b5](https://github.com/wmfs/relationize/commit/0e440b5930f690d9da233c11706587f303d450c3))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([809aa08](https://github.com/wmfs/relationize/commit/809aa08c4e162fcaa1086d4a024c096f1069db4d))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([52e00aa](https://github.com/wmfs/relationize/commit/52e00aa2a6b285d4b4a62f11ea83f0a7d9af07f2))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([265c633](https://github.com/wmfs/relationize/commit/265c633c6c1186b97099849b6b669156a09483e6))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([ff21060](https://github.com/wmfs/relationize/commit/ff210605413682ab85819e70ff113ab4d0a00478))
+
 # [1.20.0](https://github.com/wmfs/relationize/compare/v1.19.0...v1.20.0) (2020-03-18)
 
 
