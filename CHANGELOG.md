@@ -1,3 +1,29 @@
+# [1.22.0](https://github.com/wmfs/relationize/compare/v1.21.0...v1.22.0) (2020-04-27)
+
+
+### ✨ Features
+
+* **interface:** Removed relationize callback interface - now returns a promise ([7c5f96c](https://github.com/wmfs/relationize/commit/7c5f96c2a82056116175f235e83e0042db3f878e))
+
+
+### 🛠 Builds
+
+* **deps:** Remove 'async' dependency ([f623921](https://github.com/wmfs/relationize/commit/f623921e3ea8fe5f7fc8224ce7b9e48ae053bf10))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([4ef04e5](https://github.com/wmfs/relationize/commit/4ef04e59cf2a5935c08a76f537efd09079273d6d))
+
+
+### 📦 Code Refactoring
+
+* Functions in schemaFilesParser don't need to be local ([a388bb2](https://github.com/wmfs/relationize/commit/a388bb2b4f49a1363813285c96cfbd37c195e4ae))
+* Minor clean ups in parser ([9caf3ec](https://github.com/wmfs/relationize/commit/9caf3ec90eb5ddd87184a7cfdae44978e5b63546))
+* Rework load-from-schema-files to remove 'async' package dependency ([5858bb1](https://github.com/wmfs/relationize/commit/5858bb167b1459634aecef6d43d87e02ffa194a5))
+* Switch loader over to using async/await ([2637f30](https://github.com/wmfs/relationize/commit/2637f30f7bd8eef514b8a0936ee7fc999d72c087))
+
+
+### 🚨 Tests
+
+* Flip from callback to async/await ([f0725f3](https://github.com/wmfs/relationize/commit/f0725f3d30f9561895a15a61ddab3097b6416133))
+
 # [1.21.0](https://github.com/wmfs/relationize/compare/v1.20.0...v1.21.0) (2020-04-22)
 
 
