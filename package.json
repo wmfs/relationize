@@ -22,7 +22,6 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "async": "3.2.0",
     "glob": "7.1.6",
     "jsonfile": "6.0.1",
     "lodash": "4.17.15",
