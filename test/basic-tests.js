@@ -12,27 +12,21 @@ const path = require('path')
 const schemaDir = path.resolve(__dirname, 'fixtures', 'schema')
 const expectedDir = path.resolve(__dirname, 'fixtures', 'expected')
 
-describe('Run some basic tests', function () {
-  it('database structure for a simple schema', done => {
+describe('relationize', () => {
+  it('database structure for a simple schema', async () => {
     const peopleSchema = require(path.resolve(schemaDir, 'people/people.json'))
 
-    relationize({
+    const dbStructure = await relationize({
       source: {
         schemas: [{
           namespace: 'relationizeTest',
           schema: peopleSchema
         }]
       }
-    },
-    (err, dbStructure) => {
-      if (err) return done(err)
+    })
 
-      const expected = require(path.resolve(expectedDir, 'people-structure.json'))
-      expect(dbStructure).to.containSubset(expected)
-
-      done()
-    }
-    )
+    const expected = require(path.resolve(expectedDir, 'people-structure.json'))
+    expect(dbStructure).to.containSubset(expected)
   })
 
   it('database structure for a nested schema', async () => {
