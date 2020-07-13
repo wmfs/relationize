@@ -1,3 +1,24 @@
+# [1.23.0](https://github.com/wmfs/relationize/compare/v1.22.0...v1.23.0) (2020-07-13)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.15 to 4.17.19 ([6c76c7e](https://github.com/wmfs/relationize/commit/6c76c7e7427ef3b1fe0326c7ee1248836d71cc3c))
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([8f09d4f](https://github.com/wmfs/relationize/commit/8f09d4f3f7266fba3e0e80e076174d920b7412b1))
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([30f3375](https://github.com/wmfs/relationize/commit/30f337500b1a495da6c617b3cc6f7ada725157ce))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([5362a0d](https://github.com/wmfs/relationize/commit/5362a0daaa25f1011023b638c9687e45c68e3fd1))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([9ce3d59](https://github.com/wmfs/relationize/commit/9ce3d59149b73cb27c3dda32a4d87cdf9e30fc6a))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([30e6c26](https://github.com/wmfs/relationize/commit/30e6c26660c4ac5329e950344b8a0f097dd64b04))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([bc3abe4](https://github.com/wmfs/relationize/commit/bc3abe4ecb1d0c13fb3f4657dad98a0f2a3789a8))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([0dacb14](https://github.com/wmfs/relationize/commit/0dacb1407658cbb8fd466347fc37b25cace577e5))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([704bd6a](https://github.com/wmfs/relationize/commit/704bd6ae9c7abfaf9cedcfbba17e0d1d22804b75))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([1f3e5ca](https://github.com/wmfs/relationize/commit/1f3e5caac241b0ded55773abb79f33ebe53331f8))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([602c5e6](https://github.com/wmfs/relationize/commit/602c5e6ae8fa76b735c1d97384a69e412b425107))
+
 # [1.22.0](https://github.com/wmfs/relationize/compare/v1.21.0...v1.22.0) (2020-04-27)
 
 
