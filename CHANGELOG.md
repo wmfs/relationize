@@ -1,3 +1,19 @@
+# [1.24.0](https://github.com/wmfs/relationize/compare/v1.23.0...v1.24.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.19 to 4.17.20 ([d866829](https://github.com/wmfs/relationize/commit/d86682928223934039d1e95f6f25f65509ac11dd))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([409f350](https://github.com/wmfs/relationize/commit/409f350e5a33d5efbed192cf46b0ccb0bdf5d9f6))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([a1d08a6](https://github.com/wmfs/relationize/commit/a1d08a656bdf9dc2d39f0e561b870f48fd4592c0))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([d734842](https://github.com/wmfs/relationize/commit/d734842dc3afe6dfc98d6ff2266249a9a66ad1eb))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([d074d38](https://github.com/wmfs/relationize/commit/d074d387f51215d91377f769bf74d1ec4cce99c8))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([e30b9ff](https://github.com/wmfs/relationize/commit/e30b9ff91b5deefabb025264c53b0916050b2b4a))
+
 # [1.23.0](https://github.com/wmfs/relationize/compare/v1.22.0...v1.23.0) (2020-07-13)
 
 
