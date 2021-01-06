@@ -1,3 +1,40 @@
+# [1.25.0](https://github.com/wmfs/relationize/compare/v1.24.0...v1.25.0) (2021-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** bump jsonfile from 6.0.1 to 6.1.0 ([3cbbe98](https://github.com/wmfs/relationize/commit/3cbbe98f527392a19ac0e5de79420efef57309a9))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([d5dd5d3](https://github.com/wmfs/relationize/commit/d5dd5d3652e166f460a3fa477a1cb31bf8286893))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([a540119](https://github.com/wmfs/relationize/commit/a5401193d9a21e23d8128c804cc94f12b67dafb1))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([37d81b6](https://github.com/wmfs/relationize/commit/37d81b60c04b388b2ba9b9d0275730180abd11c2))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([0675597](https://github.com/wmfs/relationize/commit/0675597c4ced4e71824b72e21b6083849e92bd26))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([2db2c48](https://github.com/wmfs/relationize/commit/2db2c48af1889a4c5ba82dde2f38f85fd51af37a))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([e5938b9](https://github.com/wmfs/relationize/commit/e5938b94f317afa7ffd207de0c5c40902facbd4d))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([a645e81](https://github.com/wmfs/relationize/commit/a645e8115c02cda1659e4a1afe4458eaf713fa06))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([275c100](https://github.com/wmfs/relationize/commit/275c100b7986a1ce7442a9042f5f2bd6ce562c1a))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([75a53bc](https://github.com/wmfs/relationize/commit/75a53bcb943de3719908e33ed6973a668e76feef))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([70087cb](https://github.com/wmfs/relationize/commit/70087cb4666f9b0c5d8e9a0e60f3fad259f822d0))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([0b572ae](https://github.com/wmfs/relationize/commit/0b572aecf571595fd9c66336a881727cd88a4597))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([45b2e4c](https://github.com/wmfs/relationize/commit/45b2e4c49a311a28f770e164ed9d838fe6d5924d))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([a026f5f](https://github.com/wmfs/relationize/commit/a026f5f85ce853ea27593bed344ed0f379fffa67))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([03a2479](https://github.com/wmfs/relationize/commit/03a2479f641a3002ca9703840a8791c6139b2292))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([8c2cfed](https://github.com/wmfs/relationize/commit/8c2cfeda21dd9619dbdde608a7bf6cf5c073d760))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([b6214b9](https://github.com/wmfs/relationize/commit/b6214b9a5ab521df784e2190a4072e01efe7d37c))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([3222153](https://github.com/wmfs/relationize/commit/3222153ea3671abb6e081dc4cfe4d93cf829e09f))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([39e18ba](https://github.com/wmfs/relationize/commit/39e18ba328c02bd71d81f3ca47da3dbd493cce58))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([aa18e56](https://github.com/wmfs/relationize/commit/aa18e56be6129ffa7b122d79c81121ececa67700))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([226e4d3](https://github.com/wmfs/relationize/commit/226e4d3f9a92166bb7cedf06def4082568446d3d))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([a7bcb6b](https://github.com/wmfs/relationize/commit/a7bcb6b4ac860c6ee4c1a775f34dffb39d50bc80))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([96309f9](https://github.com/wmfs/relationize/commit/96309f9e3ef81af30c3b9965ac6753013675d3ec))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([cb89f24](https://github.com/wmfs/relationize/commit/cb89f24e801ce94368b46d3edc67085332ddea1f))
+* **circle:** cache dependencies [ch2770] ([86d9291](https://github.com/wmfs/relationize/commit/86d9291f4d04176bb8844693b0ee8469751aa97d))
+* **circle:** separate linting job [ch1009] ([7c0c96f](https://github.com/wmfs/relationize/commit/7c0c96fe98eb9bd47ac1efc8edf4ecef264ad52a))
+* **circle:** update build environment variable context name [ch2771] ([a01550f](https://github.com/wmfs/relationize/commit/a01550f382ea3ba4cf4fec459ca324e563283076))
+
 # [1.24.0](https://github.com/wmfs/relationize/compare/v1.23.0...v1.24.0) (2020-08-17)
 
 
