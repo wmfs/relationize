@@ -24,7 +24,7 @@
   "dependencies": {
     "glob": "7.1.6",
     "jsonfile": "6.1.0",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "precision": "1.0.1"
   },
   "devDependencies": {
