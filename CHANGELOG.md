@@ -1,3 +1,20 @@
+# [1.26.0](https://github.com/wmfs/relationize/compare/v1.25.0...v1.26.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.20 to 4.17.21 ([1280b9e](https://github.com/wmfs/relationize/commit/1280b9e15e6a10ab232b7fe15a9c7ce5c7aa0b23))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([41b18cf](https://github.com/wmfs/relationize/commit/41b18cf39e3d1af6954d52ac21169e3456fe6c75))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([ad34b2c](https://github.com/wmfs/relationize/commit/ad34b2cadee588b7e04ac10e86693fb3056bde2c))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([7abff2d](https://github.com/wmfs/relationize/commit/7abff2d2b9c3cdefc1555f5cdaa36ef26d10f60d))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([58b580c](https://github.com/wmfs/relationize/commit/58b580c6ff950e112ab8819698f5bed10e23f92c))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([e62a96f](https://github.com/wmfs/relationize/commit/e62a96f4d2e046bfa0f75ec926d4c6aa8fefd6df))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([b457a0d](https://github.com/wmfs/relationize/commit/b457a0d1ad72cc9f075c8a5fbf9f481ba5b2aca3))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([320619a](https://github.com/wmfs/relationize/commit/320619a6297aa25331d081ce639cc4915794d307))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([af8fbc7](https://github.com/wmfs/relationize/commit/af8fbc791cf14bcb1edc9737b9e7622a5f687917))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([c65dfc6](https://github.com/wmfs/relationize/commit/c65dfc621943f8f8dc84f812a9aebf71150acd39))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([fe5c16b](https://github.com/wmfs/relationize/commit/fe5c16bbda019b5db3517d46873a4655165e63ff))
+
 # [1.25.0](https://github.com/wmfs/relationize/compare/v1.24.0...v1.25.0) (2021-01-06)
 
 
