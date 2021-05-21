@@ -1,3 +1,22 @@
+# [1.27.0](https://github.com/wmfs/relationize/compare/v1.26.0...v1.27.0) (2021-05-21)
+
+
+### 🛠 Builds
+
+* **deps:** bump glob from 7.1.6 to 7.1.7 ([de7e078](https://github.com/wmfs/relationize/commit/de7e07874c340f89d5861ff3e19364dbb80c2341))
+* **deps-dev:** bump chai from 4.3.0 to 4.3.1 ([0901362](https://github.com/wmfs/relationize/commit/0901362fba1a94a97cad2292a845d562a07c7531))
+* **deps-dev:** bump chai from 4.3.1 to 4.3.2 ([ad0fa44](https://github.com/wmfs/relationize/commit/ad0fa446cedca6c915004aca90e81e1fc4b6bdf8))
+* **deps-dev:** bump chai from 4.3.2 to 4.3.3 ([1e1f808](https://github.com/wmfs/relationize/commit/1e1f808a3cf906f4d533f9b711e8f5dceb255dbd))
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([67bf3f6](https://github.com/wmfs/relationize/commit/67bf3f6f175803cdb3a088b8efd7223501c37cce))
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([fb0e88a](https://github.com/wmfs/relationize/commit/fb0e88a4d70fd95080da66a599ccbff6ffbbed73))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([4f184fc](https://github.com/wmfs/relationize/commit/4f184fc74afc2d833911c234bd895b611ff74bd8))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([04d54b2](https://github.com/wmfs/relationize/commit/04d54b200453b7dd4aa3b25c882ff50856cf8a5e))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([41fb06a](https://github.com/wmfs/relationize/commit/41fb06a4567a3f4c82bfe39f24d66bd9e00ce4e1))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([bd1f5a4](https://github.com/wmfs/relationize/commit/bd1f5a4883aae63f16fb426fa4443df89b8f82ab))
+* **deps-dev:** bump semantic-release from 17.4.0 to 17.4.1 ([02737fd](https://github.com/wmfs/relationize/commit/02737fdf4548a5e0f27e98116f01253eec40ae2c))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([859d161](https://github.com/wmfs/relationize/commit/859d161d089234e093801299129e4eb434a10a73))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([6e20325](https://github.com/wmfs/relationize/commit/6e203257d7422eb3c669f36c30f3def2134d1fa6))
+
 # [1.26.0](https://github.com/wmfs/relationize/compare/v1.25.0...v1.26.0) (2021-02-24)
 
 
