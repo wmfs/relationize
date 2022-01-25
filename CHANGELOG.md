@@ -1,3 +1,38 @@
+# [1.28.0](https://github.com/wmfs/relationize/compare/v1.27.0...v1.28.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([675cfff](https://github.com/wmfs/relationize/commit/675cfff1baafecec5aaba7dd525ab103ef3edb6d))
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([ddac5a7](https://github.com/wmfs/relationize/commit/ddac5a793a7b25d569fa4937d53b360ebb5b849a))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([637cb0f](https://github.com/wmfs/relationize/commit/637cb0f6a5f029bfd2f51286dbce546c3cb1b908))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([60c1734](https://github.com/wmfs/relationize/commit/60c17344bc5e077a3fd87086818ad7f8840ebbb2))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([6133f70](https://github.com/wmfs/relationize/commit/6133f70116a28745a8172e88d547665fe3964e83))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([84417e7](https://github.com/wmfs/relationize/commit/84417e790e119e9cada7068d44af245b75be3df9))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([bf290e8](https://github.com/wmfs/relationize/commit/bf290e8c2d6c1625db458cf5f4c8bd516548e233))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([d580c24](https://github.com/wmfs/relationize/commit/d580c243ae124c41a6febe0275347f4745517f41))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([d37f64f](https://github.com/wmfs/relationize/commit/d37f64f320726579d9c93681778a748c8b4923f1))
+* **deps-dev:** update dependency mocha to v9.1.0 ([9c383c3](https://github.com/wmfs/relationize/commit/9c383c3e5c2c76cc725f3377ed8deb77b4e24dd1))
+* **deps-dev:** update dependency mocha to v9.1.1 ([f65f57d](https://github.com/wmfs/relationize/commit/f65f57ddb8b9e02b08c5608f92be4766368e89e0))
+* **deps-dev:** update dependency mocha to v9.1.2 ([1f1d3c4](https://github.com/wmfs/relationize/commit/1f1d3c460f5663767acbf710cbef1f028e34f2bb))
+* **deps-dev:** update dependency mocha to v9.1.3 ([1871ad9](https://github.com/wmfs/relationize/commit/1871ad9929f724149d741b78df8ed4ce36850640))
+* **deps-dev:** update dependency mocha to v9.1.4 ([92f64a6](https://github.com/wmfs/relationize/commit/92f64a6eb4fff847011223e321918241ca0f1569))
+* **deps-dev:** update dependency mocha to v9.2.0 ([00feacf](https://github.com/wmfs/relationize/commit/00feacfeb133bb9e5ed90752ba408efc595561de))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([d8a402b](https://github.com/wmfs/relationize/commit/d8a402b2384839866238835422c17a78c2eff3ed))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([ea7cb7d](https://github.com/wmfs/relationize/commit/ea7cb7dcdf1ddb28f57989b4c43d25a0d514f757))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([779d4e8](https://github.com/wmfs/relationize/commit/779d4e873e82fb38f7e64b7970749876b6820163))
+* **deps-dev:** update dependency semantic-release to v18 ([2135bc4](https://github.com/wmfs/relationize/commit/2135bc45225b9a870a67a4fc211f2c799c4fe6cf))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([58e2974](https://github.com/wmfs/relationize/commit/58e29749b94954a08dfa4ac3248cff8f1cf4a912))
+* **deps-dev:** update dependency semantic-release to v19 ([8689ced](https://github.com/wmfs/relationize/commit/8689cedb672a549584c19c5c90e48e9036f77f83))
+* **deps-dev:** update dependency standard to v16.0.4 ([2b82932](https://github.com/wmfs/relationize/commit/2b82932cc2c78a359bff7e067bbfa7e6b2b3fd09))
+* **deps-dev:** update semantic-release monorepo ([44e3ac6](https://github.com/wmfs/relationize/commit/44e3ac6fc7e3447fe8c5a396753efd9b2f2c086f))
+* **deps:** update dependency glob to v7.2.0 ([0622b6f](https://github.com/wmfs/relationize/commit/0622b6f9a896fec6fe4be5259df404ed53f11c37))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([d005e26](https://github.com/wmfs/relationize/commit/d005e26bd3859d708066b523cb247960208a3c3e))
+
 # [1.27.0](https://github.com/wmfs/relationize/compare/v1.26.0...v1.27.0) (2021-05-21)
 
 
