@@ -1,3 +1,18 @@
+# [1.29.0](https://github.com/wmfs/relationize/compare/v1.28.0...v1.29.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.6 ([c31b1a5](https://github.com/wmfs/relationize/commit/c31b1a5b256d84b1322adcabe9e4c10605f89842))
+* **deps-dev:** update dependency mocha to v10 ([3e5128a](https://github.com/wmfs/relationize/commit/3e5128a89e72b0698e3128a9887e0ee0d381f96c))
+* **deps-dev:** update dependency mocha to v10.1.0 ([9dc01a1](https://github.com/wmfs/relationize/commit/9dc01a14c3c86a8db4245ffa2edf6ef4a98704a8))
+* **deps-dev:** update dependency mocha to v9.2.1 ([4fbfbf7](https://github.com/wmfs/relationize/commit/4fbfbf7911cf9ac90883f25d36b45a04bac87e1a))
+* **deps-dev:** update dependency mocha to v9.2.2 ([cc9d1f2](https://github.com/wmfs/relationize/commit/cc9d1f2aa64c45404be0c2cea773c6719e7294b0))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([10aedb9](https://github.com/wmfs/relationize/commit/10aedb9d459640b5fffc399d39a238919f814baf))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([c690176](https://github.com/wmfs/relationize/commit/c690176ae8a4c17883ed24b2b095a3862c51c639))
+* **deps-dev:** update dependency standard to v17 ([d2139ec](https://github.com/wmfs/relationize/commit/d2139ec19a580bcbe927c898cfdf82f6d6e562d8))
+* **deps:** update dependency glob to v7.2.3 ([b6d0779](https://github.com/wmfs/relationize/commit/b6d0779a5943f52a19127d46a72817035eb7b3d3))
+
 # [1.28.0](https://github.com/wmfs/relationize/compare/v1.27.0...v1.28.0) (2022-01-25)
 
 
