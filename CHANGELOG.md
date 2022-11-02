@@ -1,3 +1,10 @@
+# [1.30.0](https://github.com/wmfs/relationize/compare/v1.29.0...v1.30.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency glob to v8 ([6950439](https://github.com/wmfs/relationize/commit/695043926dcfebe58916f443f582094c219dd73b))
+
 # [1.29.0](https://github.com/wmfs/relationize/compare/v1.28.0...v1.29.0) (2022-11-02)
 
 
