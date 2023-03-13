@@ -1,3 +1,20 @@
+# [1.31.0](https://github.com/wmfs/relationize/compare/v1.30.0...v1.31.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([1497721](https://github.com/wmfs/relationize/commit/1497721f1767d329a727eb10b00c9cd54b2b3ea9))
+* **deps-dev:** update dependency chai to v4.3.7 ([f9c577e](https://github.com/wmfs/relationize/commit/f9c577ea3cdff403c4be68541f88abfd36d07f9f))
+* **deps-dev:** update dependency mocha to v10.2.0 ([4520dcb](https://github.com/wmfs/relationize/commit/4520dcb02b1640a1d98435800a45f825a26bd86e))
+* **deps-dev:** update dependency semantic-release to v20 ([3e4bed9](https://github.com/wmfs/relationize/commit/3e4bed9e789dc9e4ecaa7051e57e1fe35dd3c6eb))
+* **deps-dev:** update dependency semantic-release to v20.0.1 ([ec00f50](https://github.com/wmfs/relationize/commit/ec00f50624b6d7c6250de829ea53c721255330c1))
+* **deps-dev:** update dependency semantic-release to v20.0.2 ([f964d91](https://github.com/wmfs/relationize/commit/f964d910701e733639e7f1e623d628f9d75cda80))
+* **deps-dev:** update dependency semantic-release to v20.0.3 ([554969d](https://github.com/wmfs/relationize/commit/554969d27b52524fff3093493e365cbfa5cbdcf3))
+* **deps-dev:** update dependency semantic-release to v20.0.4 ([44e22a2](https://github.com/wmfs/relationize/commit/44e22a2071f8b6de5cc66c22f40b736ae7abfb9f))
+* **deps-dev:** update dependency semantic-release to v20.1.0 ([10e8e53](https://github.com/wmfs/relationize/commit/10e8e539d0839ca0789cc3aafbc864a0fce8ff34))
+* **deps-dev:** update dependency semantic-release to v20.1.1 ([7bafe4a](https://github.com/wmfs/relationize/commit/7bafe4a742ce7256e30ff26b636235a5ac940cca))
+* **deps:** update dependency glob to v8.1.0 ([52c624d](https://github.com/wmfs/relationize/commit/52c624d1408658efb1bcd56536d007103a5be4aa))
+
 # [1.30.0](https://github.com/wmfs/relationize/compare/v1.29.0...v1.30.0) (2022-11-02)
 
 
