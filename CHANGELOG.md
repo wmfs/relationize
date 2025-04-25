@@ -1,3 +1,12 @@
+## [1.34.0](https://github.com/wmfs/relationize/compare/v1.33.0...v1.34.0) (2025-04-25)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v11.1.0 ([#349](https://github.com/wmfs/relationize/issues/349)) ([ef2f47b](https://github.com/wmfs/relationize/commit/ef2f47b5cd4e6e4c35640af2c7d02866424548d4))
+* **deps-dev:** update dependency semantic-release to v24.2.2 ([#350](https://github.com/wmfs/relationize/issues/350)) ([c3c36e6](https://github.com/wmfs/relationize/commit/c3c36e665fe5a34ae2fb2be67924df194a9c66e9))
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#351](https://github.com/wmfs/relationize/issues/351)) ([2822165](https://github.com/wmfs/relationize/commit/28221658f099c18837ad44e9d33b1321bf03a877))
+* **deps:** update dependency glob to v11.0.2 ([#352](https://github.com/wmfs/relationize/issues/352)) ([1a3c5a0](https://github.com/wmfs/relationize/commit/1a3c5a00f15ddc7117eff08e1928f140612c02ae))
+
 ## [1.33.0](https://github.com/wmfs/relationize/compare/v1.32.0...v1.33.0) (2025-01-13)
 
 ### Build system dependencies :hammer:
