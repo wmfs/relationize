@@ -22,7 +22,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "glob": "11.0.2",
+    "glob": "11.0.3",
     "jsonfile": "6.1.0",
     "lodash": "4.17.21",
     "precision": "1.0.1"
