@@ -1,3 +1,17 @@
+## [1.35.0](https://github.com/wmfs/relationize/compare/v1.34.0...v1.35.0) (2025-06-13)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#357](https://github.com/wmfs/relationize/issues/357)) ([35c15be](https://github.com/wmfs/relationize/commit/35c15be2f0baf8f34b55cc5481c9dd0be99e3942))
+* **deps-dev:** update dependency mocha to v11.2.2 ([#353](https://github.com/wmfs/relationize/issues/353)) ([705d260](https://github.com/wmfs/relationize/commit/705d2607978ec584ab24299d145b9842671b9e84))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#355](https://github.com/wmfs/relationize/issues/355)) ([17f692a](https://github.com/wmfs/relationize/commit/17f692a045f82ba1b11488b3a366c046f3836f9a))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#356](https://github.com/wmfs/relationize/issues/356)) ([7bc988e](https://github.com/wmfs/relationize/commit/7bc988e1340bbe1c76cd8f75b65aa4c7d23ee4c7))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#359](https://github.com/wmfs/relationize/issues/359)) ([a1a068a](https://github.com/wmfs/relationize/commit/a1a068af318bd30e30c30367cee41b95826b7d91))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#360](https://github.com/wmfs/relationize/issues/360)) ([a524b6c](https://github.com/wmfs/relationize/commit/a524b6c03fd026e2c3d25d294b32d40fdf25229e))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#354](https://github.com/wmfs/relationize/issues/354)) ([fb7d39e](https://github.com/wmfs/relationize/commit/fb7d39e8b0347fe73ee550c963a30e8da0dcf35c))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#358](https://github.com/wmfs/relationize/issues/358)) ([df05d7d](https://github.com/wmfs/relationize/commit/df05d7d497e91a4fc2ea93f09abd1c215d56e9e9))
+* **deps:** update dependency glob to v11.0.3 ([#361](https://github.com/wmfs/relationize/issues/361)) ([c61429c](https://github.com/wmfs/relationize/commit/c61429cdd53e154907278b895deec6fa32476f1f))
+
 ## [1.34.0](https://github.com/wmfs/relationize/compare/v1.33.0...v1.34.0) (2025-04-25)
 
 ### Build system dependencies :hammer:
