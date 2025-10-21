@@ -1,3 +1,24 @@
+## [1.36.0](https://github.com/wmfs/relationize/compare/v1.35.0...v1.36.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#370](https://github.com/wmfs/relationize/issues/370)) ([782e4f1](https://github.com/wmfs/relationize/commit/782e4f1c39e18372210cc4f5e8830dd1da23a7e1))
+* **deps-dev:** update dependency chai to v6 ([#368](https://github.com/wmfs/relationize/issues/368)) ([88abc3a](https://github.com/wmfs/relationize/commit/88abc3a1bb1e400bf35987aaaa37c7c77982be9a))
+* **deps-dev:** update dependency chai to v6.2.0 ([#373](https://github.com/wmfs/relationize/issues/373)) ([5ed5a2e](https://github.com/wmfs/relationize/commit/5ed5a2e249180275e783d1949cf5f4731a917ae6))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#365](https://github.com/wmfs/relationize/issues/365)) ([52d2d03](https://github.com/wmfs/relationize/commit/52d2d030d7961a2f05bfae03b318efaca9bc1e4f))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#362](https://github.com/wmfs/relationize/issues/362)) ([0efe6f2](https://github.com/wmfs/relationize/commit/0efe6f2872b7248af08a44a75c31f961a5e9a96a))
+* **deps-dev:** update dependency mocha to v11.7.1 ([#363](https://github.com/wmfs/relationize/issues/363)) ([3114df4](https://github.com/wmfs/relationize/commit/3114df4bce44b16e80316941f637ff13563ae057))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#369](https://github.com/wmfs/relationize/issues/369)) ([66fa8e8](https://github.com/wmfs/relationize/commit/66fa8e839fd15c8f339a76f986152af881735adf))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#374](https://github.com/wmfs/relationize/issues/374)) ([6826273](https://github.com/wmfs/relationize/commit/6826273c6389f4569be592c4c40175ecd2f0ab96))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#375](https://github.com/wmfs/relationize/issues/375)) ([c39b879](https://github.com/wmfs/relationize/commit/c39b879a885d91946e55c0394e5ed2825be70445))
+* **deps-dev:** update dependency semantic-release to v24.2.6 ([#364](https://github.com/wmfs/relationize/issues/364)) ([5b375cb](https://github.com/wmfs/relationize/commit/5b375cbc485c5f8fd5cdb359ced54ffa80cc4faf))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#366](https://github.com/wmfs/relationize/issues/366)) ([193e4ac](https://github.com/wmfs/relationize/commit/193e4ac9c78f681c4afa1802e7860d060534596b))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#371](https://github.com/wmfs/relationize/issues/371)) ([656145e](https://github.com/wmfs/relationize/commit/656145ea889481e60980fea158696476c9534fe7))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#372](https://github.com/wmfs/relationize/issues/372)) ([90697cc](https://github.com/wmfs/relationize/commit/90697cc51f10a3e33bd192317093ea1abf7c57dc))
+* **deps-dev:** update dependency semantic-release to v25 ([#376](https://github.com/wmfs/relationize/issues/376)) ([dde2f9d](https://github.com/wmfs/relationize/commit/dde2f9d45f20245f73df1becb9f2f9c97572717f))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#377](https://github.com/wmfs/relationize/issues/377)) ([2f30453](https://github.com/wmfs/relationize/commit/2f30453e6b9fe683fb261d6801d68034c6393994))
+* **deps:** revert chai to non-esm ([60548b4](https://github.com/wmfs/relationize/commit/60548b42efbd0546cb9ec95f40622afaa589d3e3))
+
 ## [1.35.0](https://github.com/wmfs/relationize/compare/v1.34.0...v1.35.0) (2025-06-13)
 
 ### Build system dependencies :hammer:
