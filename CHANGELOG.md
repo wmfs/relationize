@@ -1,3 +1,21 @@
+## [1.38.0](https://github.com/wmfs/relationize/compare/v1.37.1...v1.38.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([713b598](https://github.com/wmfs/relationize/commit/713b598a7d3593d9e1d8af04e7c57275269c77bd))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#410](https://github.com/wmfs/relationize/issues/410)) ([189e4e6](https://github.com/wmfs/relationize/commit/189e4e691d8631fa93602cd3b6f79b10f1e4565c))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#415](https://github.com/wmfs/relationize/issues/415)) ([2808ec4](https://github.com/wmfs/relationize/commit/2808ec481dadc6b504c7b7044ba7fa813c814d59))
+* **deps-dev:** update dependency mocha to v12 ([#411](https://github.com/wmfs/relationize/issues/411)) ([27528cb](https://github.com/wmfs/relationize/commit/27528cbdef8e8c087b72cf21c8e8c7a98b0e8047))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#412](https://github.com/wmfs/relationize/issues/412)) ([2e82d00](https://github.com/wmfs/relationize/commit/2e82d002e84f2e91a1e613d8bef716f51bfbecce))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#413](https://github.com/wmfs/relationize/issues/413)) ([0b0b21b](https://github.com/wmfs/relationize/commit/0b0b21b3b12e2aad5eb12d8604d2dd30d15b851b))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#414](https://github.com/wmfs/relationize/issues/414)) ([3de1f51](https://github.com/wmfs/relationize/commit/3de1f51d928aa6b16d984990ccca15c736d3b90c))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#388](https://github.com/wmfs/relationize/issues/388)) ([cca19a4](https://github.com/wmfs/relationize/commit/cca19a4b93ef9434e5afcdcacf8140b26984aa7b))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#417](https://github.com/wmfs/relationize/issues/417)) ([702b3ff](https://github.com/wmfs/relationize/commit/702b3ff661367f2b32ef8074e4b4fde32cf6715c))
+* use shared renovate preset [sc-34117] ([#416](https://github.com/wmfs/relationize/issues/416)) ([91b7ff5](https://github.com/wmfs/relationize/commit/91b7ff596c38c0ce8524ce7ea8cdf41e22554329))
+
 ## [1.37.1](https://github.com/wmfs/relationize/compare/v1.37.0...v1.37.1) (2026-08-13)
 
 ## [1.37.0](https://github.com/wmfs/relationize/compare/v1.36.0...v1.37.0) (2025-11-24)
