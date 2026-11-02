@@ -1,3 +1,9 @@
+## [1.39.0](https://github.com/wmfs/relationize/compare/v1.38.0...v1.39.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency jsonfile to v6.2.1 ([#367](https://github.com/wmfs/relationize/issues/367)) ([c771401](https://github.com/wmfs/relationize/commit/c771401e811eeb79531a316c80c9485bc282e487))
+
 ## [1.38.0](https://github.com/wmfs/relationize/compare/v1.37.1...v1.38.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
