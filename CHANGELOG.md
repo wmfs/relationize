@@ -1,3 +1,9 @@
+## [1.41.0](https://github.com/wmfs/relationize/compare/v1.40.0...v1.41.0) (2026-11-18)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency glob to v14.0.6 ([#420](https://github.com/wmfs/relationize/issues/420)) ([9b4505a](https://github.com/wmfs/relationize/commit/9b4505a24ec18a5155a828cebff8cdb9fb354e4a))
+
 ## [1.40.0](https://github.com/wmfs/relationize/compare/v1.39.0...v1.40.0) (2026-11-12)
 
 ### Build system dependencies :hammer:
